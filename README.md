@@ -10,7 +10,7 @@
   - Scikit learn
 
 # Project Motivation
-The objective is to try to find how Starbucks customers use the app, and how well is the current offers system. Lastly, ML models are used to predict the best offer to a specific customers by using transaction, demographic and offer data.
+The objective is to try to find how Starbucks customers use the app, and how well is the current offers system. ML models are used to predict the best offer to a specific customers by using transaction, demographic and offer data.
 
 # File Descriptions
 1. data:
