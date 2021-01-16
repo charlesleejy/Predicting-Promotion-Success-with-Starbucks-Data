@@ -1,5 +1,7 @@
 # Predicting-Promotion-Success-with-Starbucks-Data
 
+Link to Medium: https://charlesleejy.medium.com/starbucks-capstone-challenge-3c826dd523d2
+
 # Installation 
 - Python versions 3.*.
 - Python libraries:
